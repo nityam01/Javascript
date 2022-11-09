@@ -33,6 +33,10 @@
 - if, if...else, if...else...if, Ternary, Switch, while, do...while, for, break, continue
 - Exception Handling [ try...catch...finally ]
 
+**ARRAY and ITS METHODS**
+
+**STRING and ITS METHODS**
+
 ## Javascript ES6
 
 ## Javascript Functions
@@ -49,5 +53,3 @@
 ## Javascript DOM
 
 ## Javascript APIs
-
-## Javscript
