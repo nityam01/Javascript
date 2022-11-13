@@ -1,2 +1,9 @@
 #Javascript
-This is my repo for learning Javascript and build some projects for better understanding
+
+Learning Javascript :-
+
+- Core Javascript
+- Fundamentals
+- ES6+
+- OOPS
+- Async Javascript
